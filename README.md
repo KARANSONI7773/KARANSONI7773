@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Soni</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 📫 How to reach me **sonikaran@8094gmail.com**
+- 📫 How to reach me **sonikaran8094@gmail.com**
 - 📫 This is my Project **mewar.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
