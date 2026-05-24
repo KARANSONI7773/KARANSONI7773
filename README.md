@@ -38,3 +38,110 @@ class KaranSoni {
     string mission =
     "Building an independent programming ecosystem.";
 };
+```
+
+---
+
+# ⚔️ The Mewar Ecosystem
+
+| 🚀 Project | ⚡ Description |
+|---|---|
+| ⚔️ Mewar Language | Experimental Programming Language |
+| 🧠 Mewar Interpreter | Runtime & Execution Engine |
+| 🖥️ Mewar IDE | Developer Tooling Platform |
+| 🌐 Mewar Playground | Browser-Based Execution Environment |
+| 📚 Mewar School | Interactive Learning Platform |
+| 🛡️ Chetak Security | Security & Protection Layer |
+
+---
+
+# 🌐 Live Projects
+
+- ⚔️ https://mewar.netlify.app
+- 🧠 https://mewarinterpreter.netlify.app
+- 📚 https://mewarschool.netlify.app
+- 👑 https://karan7773.netlify.app/student
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,nodejs,electron,mongodb,git,github,vscode"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- ⚡ Runtime Systems
+- 🧠 Interpreter Development
+- 🧩 Parser Design
+- 🌐 Browser-Based Execution Engines
+- 🛠️ Developer Tooling
+- 🎨 Advanced Frontend Interfaces
+- 🔐 Experimental Security Systems
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KARANSONI7773&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARANSONI7773&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KARANSONI7773&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KARANSONI7773&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📡 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/karan-soni7773">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:sonikaran8094@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
+</a>
+
+<a href="https://instagram.com/karansoni7773">
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+</a>
+
+<a href="https://github.com/KARANSONI7773">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚔️ Code Like A King ⚔️
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c94c,50:1f6feb,100:0d1117&height=140&section=footer"/>
+
+</div>
