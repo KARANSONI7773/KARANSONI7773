@@ -100,16 +100,6 @@ class KaranSoni {
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KARANSONI7773&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 📡 Connect With Me
 
 <div align="center">
@@ -124,10 +114,6 @@ class KaranSoni {
 
 <a href="https://instagram.com/karansoni7773">
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
-</a>
-
-<a href="https://github.com/KARANSONI7773">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </div>
