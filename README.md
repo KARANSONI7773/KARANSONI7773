@@ -90,10 +90,6 @@ class KaranSoni {
 
 <p align="center">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=KARANSONI7773&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br><br>
-
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=KARANSONI7773&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </p>
