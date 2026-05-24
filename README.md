@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1f6feb,100:f7c94c&text=KARAN%20SONI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20Language%20Developer%20&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1f6feb,100:f7c94c&text=KARAN%20SONI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20Language%20Developer%20⚔️&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Creator+of+the+Mewar+Programming+Language;Building+Interpreters+and+Execution+Engines;Designing+Developer+Tools+and+IDEs;Frontend+Developer+%7C+System+Architect;Code+Like+A+King+⚔️"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Creator+of+the+Mewar+Programming+Language;Building+Interpreters+and+Execution+Engines;Designing+Developer+Tools+and+IDEs;Frontend+Developer+%7C+System+Architect;Code+Like+A+King+⚔️"/>
 
 </div>
 
@@ -88,21 +88,41 @@ class KaranSoni {
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KARANSONI7773&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=KARANSONI7773&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARANSONI7773&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KARANSONI7773&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=KARANSONI7773&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-</div>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KARANSONI7773&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARANSONI7773&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</p>
 
 ---
 
 # 📡 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/karan-soni7773">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
@@ -116,13 +136,38 @@ class KaranSoni {
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
+<a href="https://github.com/KARANSONI7773">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+</p>
+
+---
+
+# ⚔️ Philosophy
+
+<div align="center">
+
+> "Programming languages are not just tools.  
+> They are worlds built from logic and imagination."
+
 </div>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KARANSONI7773&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-#  Code Like A King 
+# ⚔️ Code Like A King ⚔️
 
 </div>
 
