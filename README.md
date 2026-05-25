@@ -139,7 +139,7 @@ class KaranSoni {
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
 
