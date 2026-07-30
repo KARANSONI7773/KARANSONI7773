@@ -58,7 +58,6 @@ class KaranSoni {
 # 🌐 Live Projects
 
 - ⚔️ https://mewar.netlify.app
-- 🧠 https://mewarinterpreter.netlify.app
 - 📚 https://mewarschool.netlify.app
 - 👑 https://karan7773.netlify.app/student
 
